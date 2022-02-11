@@ -46,7 +46,10 @@ print(x)
 ```
 
 ## Output:
+1.LU Decomposition to find L and U matrix.
 ![lu decomposition](l1.jpg)
+
+2.Program to solve a matrix using LU decomposition
 ![lu decomposition](l2.jpg)
 
 ## Result:
